@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://demo.jamify.org`,
+    siteUrl: `http://18.193.174.227`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
